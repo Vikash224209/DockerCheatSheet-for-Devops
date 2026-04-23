@@ -1,9 +1,10 @@
 # DockerCheatSheet-for-Devops
-This is a repository for DOCKER .
+**This is a repository for DOCKER .**
 
-This file is totally based on my Hand's On Experience
+**This file is totally based on my Hand's On Experience.**
 
-It covers 13 sections with all major Docker commands:
+
+**It covers 13 sections with all major Docker commands:**
 
 Installation & Version
 
